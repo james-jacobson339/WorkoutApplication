@@ -34,19 +34,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\User\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\njleb\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\User\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe -E remove -f
+RM = C:\Users\njleb\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\User\Desktop\20SPDAY\CS114\WorkoutApplication
+CMAKE_SOURCE_DIR = "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\User\Desktop\20SPDAY\CS114\WorkoutApplication\cmake-build-debug
+CMAKE_BINARY_DIR = "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -73,14 +73,14 @@ preinstall:
 CMakeFiles/WorkoutApplication.dir/all:
 	$(MAKE) -f CMakeFiles\WorkoutApplication.dir\build.make CMakeFiles/WorkoutApplication.dir/depend
 	$(MAKE) -f CMakeFiles\WorkoutApplication.dir\build.make CMakeFiles/WorkoutApplication.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\User\Desktop\20SPDAY\CS114\WorkoutApplication\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target WorkoutApplication"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target WorkoutApplication"
 .PHONY : CMakeFiles/WorkoutApplication.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/WorkoutApplication.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\User\Desktop\20SPDAY\CS114\WorkoutApplication\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/WorkoutApplication.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\User\Desktop\20SPDAY\CS114\WorkoutApplication\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/WorkoutApplication.dir/rule
 
 # Convenience name for target.
