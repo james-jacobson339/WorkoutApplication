@@ -1,3 +1,4 @@
 C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir
 C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication_autogen.dir
