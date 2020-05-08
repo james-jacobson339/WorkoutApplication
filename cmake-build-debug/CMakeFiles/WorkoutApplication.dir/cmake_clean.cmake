@@ -1,4 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/WorkoutApplication_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/WorkoutApplication_autogen.dir/ParseCache.txt"
+  "WorkoutApplication_autogen"
+  "CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj"
+  "CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj"
+  "CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj"
   "CMakeFiles/WorkoutApplication.dir/main.cpp.obj"
   "WorkoutApplication.exe"
   "WorkoutApplication.exe.manifest"
