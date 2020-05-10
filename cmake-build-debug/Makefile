@@ -189,7 +189,6 @@ QtStarterGame.cpp.s:
 	$(MAKE) -f CMakeFiles\WorkoutApplication.dir\build.make CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.s
 .PHONY : QtStarterGame.cpp.s
 
-
 WorkoutApplication_autogen/mocs_compilation.obj: WorkoutApplication_autogen/mocs_compilation.cpp.obj
 
 .PHONY : WorkoutApplication_autogen/mocs_compilation.obj
@@ -233,7 +232,6 @@ help:
 	@echo ... QtStarterGame.obj
 	@echo ... QtStarterGame.i
 	@echo ... QtStarterGame.s
-
 	@echo ... WorkoutApplication_autogen/mocs_compilation.obj
 	@echo ... WorkoutApplication_autogen/mocs_compilation.i
 	@echo ... WorkoutApplication_autogen/mocs_compilation.s

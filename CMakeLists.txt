@@ -21,7 +21,7 @@ set(CMAKE_AUTORCC ON) # if you have any .qrc files
 # Find QT packages
 
 include_directories(cmake-build-debug/QtStarter_autogen/include)
-
+find_package(Qt5 COMPONENTS Widgets)
 
 # Add the include directories for the Qt 5 Widgets module to
 # the compile lines.
@@ -30,7 +30,7 @@ include_directories(${Qt5Widgets_INCLUDE_DIRS})
 # Add compiler flags for building executables (-fPIE)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${Qt5Widgets_EXECUTABLE_COMPILE_FLAGS}")
 
-qt5_generate_moc(crapsGame.cpp crapsGame.moc craps.cpp craps.moc)
+qt5_generate_moc(QtStarterGame.cpp QtStarterGame.moc QtStarter.cpp QtStarter.moc)
 
 add_executable(WorkoutApplication QtStarter.cpp QtStarter.h QtStarterGame.cpp)
 #crapsGame.cpp die.cpp die.h craps.cpp craps.h CrapsMainWindow.ui crapsResources.qrc
