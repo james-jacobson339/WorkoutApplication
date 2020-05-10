@@ -29,7 +29,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${Qt5Widgets_EXECUTABLE_COMPILE_FLAGS}")
 
 qt5_generate_moc(crapsGame.cpp crapsGame.moc craps.cpp craps.moc)
 
-add_executable(WorkoutApplication main.cpp QtStarter.cpp QtStarter.h QtStarterGame.cpp)
+add_executable(WorkoutApplication QtStarter.cpp QtStarter.h QtStarterGame.cpp)
 #crapsGame.cpp die.cpp die.h craps.cpp craps.h CrapsMainWindow.ui crapsResources.qrc
 
 #Link the QtStarter executable to the Qt 5 widgets library.

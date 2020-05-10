@@ -4,10 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/User/Desktop/20SPDAY/CS114/WorkoutApplication/QtStarter.cpp" "C:/Users/User/Desktop/20SPDAY/CS114/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj"
-  "C:/Users/User/Desktop/20SPDAY/CS114/WorkoutApplication/QtStarterGame.cpp" "C:/Users/User/Desktop/20SPDAY/CS114/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj"
-  "C:/Users/User/Desktop/20SPDAY/CS114/WorkoutApplication/cmake-build-debug/WorkoutApplication_autogen/mocs_compilation.cpp" "C:/Users/User/Desktop/20SPDAY/CS114/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj"
-  "C:/Users/User/Desktop/20SPDAY/CS114/WorkoutApplication/main.cpp" "C:/Users/User/Desktop/20SPDAY/CS114/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/main.cpp.obj"
+  "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/QtStarter.cpp" "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj"
+  "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/QtStarterGame.cpp" "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj"
+  "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/WorkoutApplication_autogen/mocs_compilation.cpp" "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -5,7 +5,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj"
   "CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj"
   "CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj"
-  "CMakeFiles/WorkoutApplication.dir/main.cpp.obj"
   "WorkoutApplication.exe"
   "WorkoutApplication.exe.manifest"
   "WorkoutApplication.pdb"
