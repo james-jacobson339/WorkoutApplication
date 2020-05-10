@@ -189,32 +189,6 @@ QtStarterGame.cpp.s:
 	$(MAKE) -f CMakeFiles\WorkoutApplication.dir\build.make CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.s
 .PHONY : QtStarterGame.cpp.s
 
-WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.obj: WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.obj
-
-.PHONY : WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.obj
-
-# target to build an object file
-WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.obj:
-	$(MAKE) -f CMakeFiles\WorkoutApplication.dir\build.make CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.obj
-.PHONY : WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.obj
-
-WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.i: WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.i
-
-.PHONY : WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.i
-
-# target to preprocess a source file
-WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.i:
-	$(MAKE) -f CMakeFiles\WorkoutApplication.dir\build.make CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.i
-.PHONY : WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.i
-
-WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.s: WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.s
-
-.PHONY : WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.s
-
-# target to generate assembly for a file
-WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.s:
-	$(MAKE) -f CMakeFiles\WorkoutApplication.dir\build.make CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.s
-.PHONY : WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.s
 
 WorkoutApplication_autogen/mocs_compilation.obj: WorkoutApplication_autogen/mocs_compilation.cpp.obj
 
@@ -259,9 +233,7 @@ help:
 	@echo ... QtStarterGame.obj
 	@echo ... QtStarterGame.i
 	@echo ... QtStarterGame.s
-	@echo ... WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.obj
-	@echo ... WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.i
-	@echo ... WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.s
+
 	@echo ... WorkoutApplication_autogen/mocs_compilation.obj
 	@echo ... WorkoutApplication_autogen/mocs_compilation.i
 	@echo ... WorkoutApplication_autogen/mocs_compilation.s

@@ -30,7 +30,9 @@
 					<Add directory="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug"/>
 					<Add directory="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication"/>
 					<Add directory="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/WorkoutApplication_autogen/include"/>
-					<Add directory="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/QtStarterStarter_autogen/include"/>
+
+					<Add directory="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/QtStarter_autogen/include"/>
+
 					<Add directory="C:/Qt/5.14.1/mingw73_64/include"/>
 					<Add directory="C:/Qt/5.14.1/mingw73_64/include/QtWidgets"/>
 					<Add directory="C:/Qt/5.14.1/mingw73_64/include/QtGui"/>
@@ -64,7 +66,8 @@
 					<Add directory="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug"/>
 					<Add directory="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication"/>
 					<Add directory="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/WorkoutApplication_autogen/include"/>
-					<Add directory="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/QtStarterStarter_autogen/include"/>
+					<Add directory="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/QtStarter_autogen/include"/>
+
 					<Add directory="C:/Qt/5.14.1/mingw73_64/include"/>
 					<Add directory="C:/Qt/5.14.1/mingw73_64/include/QtWidgets"/>
 					<Add directory="C:/Qt/5.14.1/mingw73_64/include/QtGui"/>
@@ -125,27 +128,14 @@
 		<Unit filename="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/QtStarterGame.cpp">
 			<Option target="WorkoutApplication"/>
 		</Unit>
-		<Unit filename="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/QtStarterMainWindow.ui">
-			<Option target="WorkoutApplication"/>
-		</Unit>
-		<Unit filename="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/QtStarterResources.qrc">
-			<Option target="WorkoutApplication"/>
-		</Unit>
-		<Unit filename="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp">
-			<Option target="WorkoutApplication"/>
-		</Unit>
-		<Unit filename="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.rule">
-			<Option target="WorkoutApplication"/>
-		</Unit>
+
 		<Unit filename="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/WorkoutApplication_autogen/mocs_compilation.cpp">
 			<Option target="WorkoutApplication"/>
 		</Unit>
 		<Unit filename="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/QtStarterResources.qrc">
-			<Option virtualFolder="CMake Files\"/>
-		</Unit>
+
 		<Unit filename="C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/../../../../../../Qt/5.14.1/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.14.1\mingw73_64\lib\cmake\Qt5\"/>
 		</Unit>

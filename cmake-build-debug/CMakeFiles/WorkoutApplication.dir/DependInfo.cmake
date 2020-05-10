@@ -6,7 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/QtStarter.cpp" "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj"
   "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/QtStarterGame.cpp" "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj"
-  "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp" "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp.obj"
+
   "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/WorkoutApplication_autogen/mocs_compilation.cpp" "C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug/CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
@@ -23,7 +23,9 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "."
   "../"
   "WorkoutApplication_autogen/include"
-  "QtStarterStarter_autogen/include"
+
+  "QtStarter_autogen/include"
+
   "C:/Qt/5.14.1/mingw73_64/include"
   "C:/Qt/5.14.1/mingw73_64/include/QtWidgets"
   "C:/Qt/5.14.1/mingw73_64/include/QtGui"

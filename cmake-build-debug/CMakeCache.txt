@@ -253,15 +253,6 @@ Qt5Gui_DIR:PATH=C:/Qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui
 //The directory containing a CMake configuration file for Qt5Widgets.
 Qt5Widgets_DIR:PATH=C:/Qt/5.14.1/mingw73_64/lib/cmake/Qt5Widgets
 
-//The directory containing a CMake configuration file for Qt5.
-Qt5_DIR:PATH=C:/Qt/5.14.1/mingw73_64/lib/cmake/Qt5
-
-//Value Computed by CMake
-QtStarter_BINARY_DIR:STATIC=C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug
-
-//Value Computed by CMake
-QtStarter_SOURCE_DIR:STATIC=C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication
-
 //Value Computed by CMake
 WorkoutApplication_BINARY_DIR:STATIC=C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug
 
