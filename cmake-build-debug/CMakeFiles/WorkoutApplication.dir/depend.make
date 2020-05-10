@@ -272,6 +272,7 @@ CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj: ../QtStarter.h
 CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj: ../QtStarterGame.cpp
 CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj: WorkoutApplication_autogen/include/ui_QtStarterMainWindow.h
 
+
 CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj: ../QtStarter.h
 CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj: C:/Qt/5.14.1/mingw73_64/include/QtCore/QVariant
 CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj: C:/Qt/5.14.1/mingw73_64/include/QtCore/qalgorithms.h

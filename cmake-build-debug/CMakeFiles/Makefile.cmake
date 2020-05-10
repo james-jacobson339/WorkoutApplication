@@ -69,6 +69,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Users/njleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/201.7223.86/bin/cmake/win/share/cmake-3.16/Modules/Platform/WindowsPaths.cmake"
   "C:/Users/njleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/201.7223.86/bin/cmake/win/share/cmake-3.16/Modules/ProcessorCount.cmake"
   "../CMakeLists.txt"
+
   "CMakeFiles/3.16.5/CMakeCCompiler.cmake"
   "CMakeFiles/3.16.5/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.16.5/CMakeRCCompiler.cmake"
@@ -84,6 +85,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/WorkoutApplication_autogen.dir/AutogenInfo.json"
+
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 

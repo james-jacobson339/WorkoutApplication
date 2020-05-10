@@ -56,10 +56,12 @@ include CMakeFiles/WorkoutApplication.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/WorkoutApplication.dir/flags.make
 
+
 CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj: CMakeFiles/WorkoutApplication.dir/flags.make
 CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj: CMakeFiles/WorkoutApplication.dir/includes_CXX.rsp
 CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj: WorkoutApplication_autogen/mocs_compilation.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj"
+
 	C:\Qt\Tools\mingw730_64\bin\c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\WorkoutApplication.dir\WorkoutApplication_autogen\mocs_compilation.cpp.obj -c "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug\WorkoutApplication_autogen\mocs_compilation.cpp"
 
 CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.i: cmake_force
@@ -70,10 +72,12 @@ CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.s"
 	C:\Qt\Tools\mingw730_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug\WorkoutApplication_autogen\mocs_compilation.cpp" -o CMakeFiles\WorkoutApplication.dir\WorkoutApplication_autogen\mocs_compilation.cpp.s
 
+
 CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj: CMakeFiles/WorkoutApplication.dir/flags.make
 CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj: CMakeFiles/WorkoutApplication.dir/includes_CXX.rsp
 CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj: ../QtStarter.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj"
+
 	C:\Qt\Tools\mingw730_64\bin\c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\WorkoutApplication.dir\QtStarter.cpp.obj -c "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\QtStarter.cpp"
 
 CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.i: cmake_force
@@ -83,6 +87,7 @@ CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.i: cmake_force
 CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.s"
 	C:\Qt\Tools\mingw730_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\QtStarter.cpp" -o CMakeFiles\WorkoutApplication.dir\QtStarter.cpp.s
+
 
 CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj: CMakeFiles/WorkoutApplication.dir/flags.make
 CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj: CMakeFiles/WorkoutApplication.dir/includes_CXX.rsp
@@ -98,18 +103,23 @@ CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.s"
 	C:\Qt\Tools\mingw730_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\QtStarterGame.cpp" -o CMakeFiles\WorkoutApplication.dir\QtStarterGame.cpp.s
 
+
 # Object files for target WorkoutApplication
 WorkoutApplication_OBJECTS = \
 "CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj" \
+
 "CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj" \
 "CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj"
+
 
 # External object files for target WorkoutApplication
 WorkoutApplication_EXTERNAL_OBJECTS =
 
 WorkoutApplication.exe: CMakeFiles/WorkoutApplication.dir/WorkoutApplication_autogen/mocs_compilation.cpp.obj
+
 WorkoutApplication.exe: CMakeFiles/WorkoutApplication.dir/QtStarter.cpp.obj
 WorkoutApplication.exe: CMakeFiles/WorkoutApplication.dir/QtStarterGame.cpp.obj
+
 WorkoutApplication.exe: CMakeFiles/WorkoutApplication.dir/build.make
 WorkoutApplication.exe: C:/Qt/5.14.1/mingw73_64/lib/libQt5Widgets.a
 WorkoutApplication.exe: C:/Qt/5.14.1/mingw73_64/lib/libQt5Gui.a
@@ -117,7 +127,9 @@ WorkoutApplication.exe: C:/Qt/5.14.1/mingw73_64/lib/libQt5Core.a
 WorkoutApplication.exe: CMakeFiles/WorkoutApplication.dir/linklibs.rsp
 WorkoutApplication.exe: CMakeFiles/WorkoutApplication.dir/objects1.rsp
 WorkoutApplication.exe: CMakeFiles/WorkoutApplication.dir/link.txt
+
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable WorkoutApplication.exe"
+
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\WorkoutApplication.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -129,7 +141,7 @@ CMakeFiles/WorkoutApplication.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles\WorkoutApplication.dir\cmake_clean.cmake
 .PHONY : CMakeFiles/WorkoutApplication.dir/clean
 
-CMakeFiles/WorkoutApplication.dir/depend:
+CMakeFiles/WorkoutApplication.dir/depend: WorkoutApplication_autogen/EWIEGA46WW/qrc_QtStarterResources.cpp
 	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication" "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication" "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug" "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug" "C:\Users\njleb\OneDrive - SNHU\Intro to Software Development\PROJECTS\WorkoutApplication\cmake-build-debug\CMakeFiles\WorkoutApplication.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/WorkoutApplication.dir/depend
 

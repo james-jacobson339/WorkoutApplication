@@ -1,5 +1,7 @@
-cmake_minimum_required(VERSION 3.15)
+cmake_minimum_required(VERSION 3.7)
 project(WorkoutApplication)
+set(CMAKE_CXX_STANDARD 17)
+
 
 set(CMAKE_CXX_STANDARD 17)
 
@@ -17,8 +19,9 @@ set(CMAKE_AUTOUIC ON) # if you have any .ui files
 set(CMAKE_AUTORCC ON) # if you have any .qrc files
 
 # Find QT packages
+
 include_directories(cmake-build-debug/QtStarter_autogen/include)
-find_package(Qt5 COMPONENTS Widgets)
+
 
 # Add the include directories for the Qt 5 Widgets module to
 # the compile lines.
@@ -34,3 +37,4 @@ add_executable(WorkoutApplication QtStarter.cpp QtStarter.h QtStarterGame.cpp)
 
 #Link the QtStarter executable to the Qt 5 widgets library.
 target_link_libraries(WorkoutApplication Qt5::Widgets)
+

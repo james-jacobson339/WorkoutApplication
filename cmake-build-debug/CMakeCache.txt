@@ -118,7 +118,7 @@ CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 CMAKE_GNUtoMS:BOOL=OFF
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/WorkoutApplication
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/crapsStarter
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Qt/Tools/mingw730_64/bin/ld.exe
@@ -258,6 +258,12 @@ WorkoutApplication_BINARY_DIR:STATIC=C:/Users/njleb/OneDrive - SNHU/Intro to Sof
 
 //Value Computed by CMake
 WorkoutApplication_SOURCE_DIR:STATIC=C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication
+
+//Value Computed by CMake
+crapsStarter_BINARY_DIR:STATIC=C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication/cmake-build-debug
+
+//Value Computed by CMake
+crapsStarter_SOURCE_DIR:STATIC=C:/Users/njleb/OneDrive - SNHU/Intro to Software Development/PROJECTS/WorkoutApplication
 
 
 ########################
